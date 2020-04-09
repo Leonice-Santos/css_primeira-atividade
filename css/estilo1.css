@@ -1,0 +1,125 @@
+body {
+	background-color: rgb(119, 224, 205); 
+	background-image: url('../img/fundo2.jpeg')
+	
+	color: red;
+
+}
+
+div{
+
+	margin-top: 50px;
+	margin-left: 150px
+	margin-right: 150px;
+	margin-bottom: 50px;
+	border: 100px solid violet;
+	border-radius: 30px;
+	border-top: dashed brown;
+	border-bottom: dashed green;
+	background-color: rgb(224, 119, 157);
+	text-align: center;
+
+	width: 200px;
+	height: 150px;
+	float: left;
+}
+a {
+	color: orange;
+}
+
+h1 {
+	font-family: Arial;
+	text-align: left;
+	text-indent: 30px;
+	color: grey;
+
+}
+
+h2 {
+	text-align: justify;
+	color: salmon;
+	font-family: Blackadder ITC;
+	line-height: 50px;
+	letter-spacing: 15px;
+	text-indent: 50px;
+	font-size: 50px;
+}
+
+
+h3 {
+	text-align: center;
+	color: brown;
+	font-family: HCastellar;
+	line-height: 30px;
+	letter-spacing: 10px;
+	text-indent: 30px;
+	font-size: 30px;
+}
+
+h4 {
+	text-align: left;
+	color: yellow;
+	font-family: Imprint MT Shadow;
+	line-height: 45px;
+	letter-spacing: 15px;
+	text-indent: 45px;
+	font-size: 45px;
+
+
+#texto1 {
+	text-align: center;
+	color: red;
+	font-family: Helvetica;
+	line-height: 40px;
+	letter-spacing: 10px;
+	text-indent: 40px;
+	font-size: 40px;
+}
+
+#texto2 {
+	text-align: left;
+	color: green;
+	font-family: Calibri;
+	line-height: 25px;
+	letter-spacing: 5px;
+	text-indent: 25px;
+	font-size: 25px;
+
+}
+
+.grupo {
+	text-align: right;
+	color: magenta;
+	font-family: Chiller;
+	line-height: 55px;
+	letter-spacing: 15px;
+	text-indent: 55px;
+	font-size: 55px;
+}
+
+.grupo2 {
+color: purple;
+font-family: Courrier;
+}
+
+}
+p {
+	font-family: Arial;
+	text-align: justify;
+	line-height: 30px; 
+	letter-spacing: 10px;
+	text-indent: 30px;
+	font-size: 30px;
+
+}
+ul {
+	background-image: url(img/seriados.jpg);
+	text-align: justify;
+	color: brown;
+	line-height: 55px;
+	letter-spacing: 10px;
+	font-size: 45px;
+	text-indent: 45px;
+	font-family: Showcard Gothic;	
+
+}
